@@ -4,3 +4,4 @@ I had exec the following command:
 So, will it remember the credential infomation?
 
 Oh shit,it does not remember the credential,i will reopen the shell,to give a try!
+Great! it does work!
